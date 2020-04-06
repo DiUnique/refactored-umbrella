@@ -2,7 +2,4 @@ Instruction for deploying this site to the server
 ----
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ullam cupiditate ducimus nostrum soluta in quod optio? Tenetur necessitatibus nisi, facilis ut, suscipit nemo blanditiis, placeat aut totam nesciunt temporibus.
 ----
-Caption
---- 
-
-Extra miles add here...
+New pull ruquest for sample branch
